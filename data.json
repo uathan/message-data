@@ -1,4 +1,1 @@
-{
-  "command": "announce",
-  "message": "test"
-}
+{"command": "announce", "message": "hello"}
