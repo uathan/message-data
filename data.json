@@ -1,1 +1,1 @@
-{"command": "announce", "message": "hi"}
+{"command": "announce", "message": "hello", "announce": "hi"}
